@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Sean
 
-I lead engineering teams and still write code. Based in Cape Town.  
+I lead and grow dev teams and still write code. Based in Cape Town.  
 I care about how we build software, how teams grow, and how not to overcomplicate things.
 
 ---
