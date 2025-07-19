@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hey, I’m Sean
 
-<!--
-**seankonig/seankonig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I lead engineering teams and still write code. Based in Cape Town.  
+I care about how we build software, how teams grow, and how not to overcomplicate things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I do
+
+- People and Software Manager at [Flatrock Solutions](https://flatrocksolutions.com), working across fintech, retail, and AI tools
+- Building real products, not slide decks
+- Mentoring devs, running 1:1s, shaping team culture (without the fluffy HR nonsense)
+- Keeping things shipping and sane
+
+---
+
+### 🛠 Projects I’m working on
+
+- **[ReflectAI](https://github.com/seankonig/reflect-ai)** – An AI-powered employee growth tool for modern teams
+- **[Axis PMS](https://github.com/seankonig/axis-pms)** – Property management system for short-term rental teams
+- **[Site Safe](https://github.com/seankonig/site-safe)** – Security workforce platform (web + Flutter mobile app)
+- **[Prompting Like a Pro](https://github.com/seankonig/prompting-like-a-pro)** – Internal AI training for dev teams
+- **[seankonig.dev](https://seankonig.dev)** – My site & portfolio
+
+---
+
+### ⚙️ Things I use and/or play with
+
+\`Next.js\` · \`Supabase\` · \`TypeScript\` · \`Fastify\` · \`Flutter\`  
+\`Tailwind\` · \`Angular\` · \`OpenAI Agents\` · \`Neo4j\`
+
+---
+
+### 🧠 Things I like thinking about
+
+- How AI actually fits into dev workflows (without the hype)
+- Building team culture that doesn't suck
+- Writing code that can survive a pivot
+- Not using `any`🤬
+
+---
+
+### 🌍 Other stuff
+
+- My dog’s name is Bruce. He’s faster than your linter.
+- I occasionally blog on [seankonig.dev](https://seankonig.dev)
+- Reach me at `me@seankonig.dev`
+
+---
+
+> “Culture isn’t a poster on the wall — it’s how your team behaves when prod goes down.”
+
+---
