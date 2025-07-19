@@ -16,10 +16,10 @@ I care about how we build software, how teams grow, and how not to overcomplicat
 
 ### 🛠 Projects I’m working on
 
-- **[ReflectAI](https://github.com/seankonig/reflect-ai)** – An AI-powered employee growth tool for modern teams
-- **[Axis PMS](https://github.com/seankonig/axis-pms)** – Property management system for short-term rental teams
-- **[Site Safe](https://github.com/seankonig/site-safe)** – Security workforce platform (web + Flutter mobile app)
-- **[Prompting Like a Pro](https://github.com/seankonig/prompting-like-a-pro)** – Internal AI training for dev teams
+- **[ReflectAI](#)** – An AI-powered employee growth tool for modern teams
+- **[Axis PMS](#)** – Property management system for short-term rental teams
+- **[Site Safe](#)** – Security workforce platform (web + Flutter mobile app)
+- **[Prompting Like a Pro](#)** – Internal AI training for dev teams
 - **[seankonig.dev](https://seankonig.dev)** – My site & portfolio
 
 ---
